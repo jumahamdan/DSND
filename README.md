@@ -8,9 +8,7 @@ This repo is made for sharing the material of [Udacity Data Scientist Nanodegree
  # Table of Contents
 1. [Data Pipelines](#pipelines)
 2. [NLP Pipelines](#nlp)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
+3. [ML Pipelines](#mlp)
 
 ## <a name="pipelines">Data Pipelines: ETL vs ELT</a>
 
@@ -32,6 +30,7 @@ However, ETL pipelines are still used even with these cloud tools. Oftentimes, i
 
 ##  <a name="nlp">Natural Language Processing Pipelines</a>
 
+
 Introducing to some of the steps involved in a NLP pipeline:
 
 <ol>
@@ -52,4 +51,13 @@ Introducing to some of the steps involved in a NLP pipeline:
     <li>Word Embeddings</li>
     </ol></br>
 <li>Modeling</li>
+</ol>
+
+## <a name="mlp">Machine Learning Pipelines</a>
+<ol>
+<li>Advantages of Machine Learning Pipelines</li>
+<li>Scikit-learn Pipeline</li>
+<li>Scikit-learn Feature Union</li>
+<li>Pipelines and Grid Search</li>
+<li>Case Study</li>
 </ol>
